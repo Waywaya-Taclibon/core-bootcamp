@@ -1,0 +1,24 @@
+{
+    "name": "SELYO PX01",
+    "description": "SELYO EXCLUSIVE BADGE",
+    "symbol": "SE",
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRL53WZwtPWkMWXzw7Nc9Ut5rWvyzpJZmlP9Q&s",
+    "attributes": [
+        {
+            "trait_type": "event",
+            "value": "SELYO EXCLUSIVE BADGE"
+        },
+        {
+            "trait_type": "year",
+            "value": "2025"
+        },
+        {
+            "trait_type": "region",
+            "value": "Luzon"
+        },
+        {
+            "trait_type": "website",
+            "value": "quest"
+        }
+    ]
+}
